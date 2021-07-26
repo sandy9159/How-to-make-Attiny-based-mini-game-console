@@ -102,3 +102,48 @@ Go to the File > Examples > ArduinoISP > ArduinoISP
 and upload this code to the arduino board I am using arduino UNO to load code to Attiny85 so you must have to select proper board before uploading the ISP code
 
 
+![image](https://user-images.githubusercontent.com/19898602/127041503-e313e148-c1ad-4af5-aba0-b302c52a3674.png)
+
+
+# Downloading Attiny board in Arduino IDE
+
+
+By default Arduino don’t have any board option for attiny 85 microcontroller so we need to first add the board for Attiny 85 board for this kindly follow below steps.
+
+first add below line of code to the preference option in Arduino IDE
+
+Go to File > Preferences and add the below line of code in board URL place
+
+https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
+
+![image](https://user-images.githubusercontent.com/19898602/127041553-d8c99936-84b6-40e9-9f88-ca6c062dc6d9.png)
+
+After completing above step now go to
+
+Tools > Board > Board manager
+
+and search for Attiny
+
+and install the board by clicking on install option
+
+![image](https://user-images.githubusercontent.com/19898602/127041611-09b27deb-395b-483f-b84f-b0ef16fe8d32.png)
+
+
+![image](https://user-images.githubusercontent.com/19898602/127041622-f845dddf-e46c-43ef-961b-84e66d972cc1.png)
+
+
+As of now attiny board is succesfully installed in our Arduino IDE, So now we need to wire Attiny with Arduino boras as per below diagram to upload game code.
+
+![image](https://user-images.githubusercontent.com/19898602/127041657-280b9b5a-f413-4a22-a474-f4668befa92a.png)
+
+
+After doing wiring as per above Image connect arduino board with laptop and open the game code which we have downloaded earlier and select the board option as shown in images below and upload the code.
+
+Till now we have succefully uploaded game code to Attiny 85 now its time to make our game console please refer the below image for circuit diagram attach all the components as shown below
+
+![MVI_0001_3](https://user-images.githubusercontent.com/19898602/127041928-58ad9bc6-f15f-46e4-9c8b-ec2a672fa4da.gif)
+
+
+
+
+
