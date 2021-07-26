@@ -78,6 +78,27 @@ Due to its compact size Attiny 85 is best for compact projects where you not nee
 ![image](https://user-images.githubusercontent.com/19898602/127041171-bc94a3e0-326d-4d20-ab5b-8e63ab4f17aa.png)
 
 
+# Programming Attiny 85
 
+
+So its time to program Attiny 85 means we need to load the code of game which we want to play on the game console.
+
+For this we need code for game either you have to write your own game code or you can download it from anywhere from internet.
+
+Writing code for game on your own is not piece of cake you need a pro level of coding skills, so we are going to use ready made game code for attiny 85 microcontroller.
+
+Thanks to Andyhighnumber he already wrote many game codes and available for free to use, you can download Attiny Arduino game code from here.
+
+As of now we have downloaded the code for games which we need to upload in attiny microcontroller, but this is not this easy because we cannot connect attiny 85 directly to PC/Laptop we need to us Arduino borad as ISP to load code to Attiny 85.
+
+# Preparing Arduino as ISP to program Attiny
+
+We need to get ready arduino as ISP so we have to upload ArduinoISP code to the arduino board
+
+Simply connect your arduino board (in may case it is Arduino UNO) with laptop via data cable.
+
+Go to the File > Examples > ArduinoISP > ArduinoISP
+
+and upload this code to the arduino board I am using arduino UNO to load code to Attiny85 so you must have to select proper board before uploading the ISP code
 
 
