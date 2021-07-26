@@ -71,8 +71,19 @@ Here is the list of component you need to build your Attiny 85 based game consol
 
 ![image](https://user-images.githubusercontent.com/19898602/127042314-3a4e48e0-f253-4707-8d08-9b5a3cf2eec6.png)![image](https://user-images.githubusercontent.com/19898602/127042452-9191dbf3-41fd-465a-9bea-f8759a0e3f4d.png)
 
+My first aim in this project to keep it small as much as possible so decide to go with SMD components, so that Electronics component cover minimum space on PCB
 
+So I design PCB accordingly now I am much excited to order this PCB and I choose [JLCPCB](https://jlcpcb.com/IAT )
 
+I got my PCB in a week only though it was a international shipment, I was quite satisfied with the PCB quality, 
+
+I also ordered Stencil along with PCB and thanks to [JLCPCB](https://jlcpcb.com/IAT ) both of this are not much havey on my pocket they have very reasonable price.
+
+if you are trying prototype PCB first time you can definitely go with [JLCPCB](https://jlcpcb.com/IAT ).
+
+If you want to see complete process of SMD soldering, go to the link below it was very satisfying to watch
+
+https://www.youtube.com/watch?v=iG4kTLOWU5Y&t=14s
 
 # Brief intro about Attiny 85
 
