@@ -65,4 +65,19 @@ Here is the list of component you need to build your Attiny 85 based game consol
 
 ![image](https://user-images.githubusercontent.com/19898602/127040832-fa3ad471-223b-4948-891e-cac4810f2e7f.png)
 
+# Brief intro about Attiny 85
+
+Attiny 85 is a tiny 8 bit Microcontroller which is high performance and low power.
+
+Attiny 85 is 8 PIN microcontroller, most of its I/O pins are multifunctional. if you are familiar with arduino borads like NANO, UNO or MEGA, you can easily relate Attiny 85 with them.
+
+You can program attiny 85 same as you program Arduino board using Arduino IDE.
+
+Due to its compact size Attiny 85 is best for compact projects where you not need many IO’s and need to keep size of project as small as possible.
+
+![image](https://user-images.githubusercontent.com/19898602/127041171-bc94a3e0-326d-4d20-ab5b-8e63ab4f17aa.png)
+
+
+
+
 
