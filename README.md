@@ -65,11 +65,12 @@ Here is the list of component you need to build your Attiny 85 based game consol
 
 ![image](https://user-images.githubusercontent.com/19898602/127040832-fa3ad471-223b-4948-891e-cac4810f2e7f.png)
 
-![image](https://user-images.githubusercontent.com/19898602/127042139-c7305214-392a-4173-a9df-2c2bee53cd16.png)
+![image](https://user-images.githubusercontent.com/19898602/127042139-c7305214-392a-4173-a9df-2c2bee53cd16.png)![image](https://user-images.githubusercontent.com/19898602/127042261-12bd5f34-0901-4a22-a5d9-072a79be8554.png)
 
-![image](https://user-images.githubusercontent.com/19898602/127042261-12bd5f34-0901-4a22-a5d9-072a79be8554.png)
 
-![image](https://user-images.githubusercontent.com/19898602/127042314-3a4e48e0-f253-4707-8d08-9b5a3cf2eec6.png)
+
+![image](https://user-images.githubusercontent.com/19898602/127042314-3a4e48e0-f253-4707-8d08-9b5a3cf2eec6.png)![image](https://user-images.githubusercontent.com/19898602/127042452-9191dbf3-41fd-465a-9bea-f8759a0e3f4d.png)
+
 
 
 
